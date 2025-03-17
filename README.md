@@ -1,6 +1,4 @@
 # Video Game Sales  Analysis
-
-## Introduction
 This project analyzes video game sales data to uncover patterns and insights about the gaming industry. The dataset includes information on global sales, genre, platform, release year, and other relevant factors.
 
 ## Tasks Performed
